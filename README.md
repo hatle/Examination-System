@@ -51,7 +51,7 @@ Mysql5.7+  [点此下载](https://cdn.yfhl.net/java-win/mysql-installer-communit
 
 
 # 其它支持
-
+如有疑问可查看 https://gitee.com/kimio/Examination-System
 
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1207/173238_e6c22c67_2189748.jpeg "17-32-10.jpg")
